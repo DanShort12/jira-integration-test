@@ -12,4 +12,4 @@ e.g. [JIT-1] A commit.
 
 A PR can be linked by referencing the issue in the PR name or in the source branch.
 
-If you're in a branch with a JIRA reference then you don't need to link individual commits.
+If you're in a branch with a JIRA reference then you still link individual commits.
